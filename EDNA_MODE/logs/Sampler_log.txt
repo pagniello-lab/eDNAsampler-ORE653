@@ -1,0 +1,45 @@
+[2026-05-05 13:58:06] PRIME_START | motor= | duration=0s | Priming preservative pumps
+[2026-05-05 13:58:06] PRES_PRIME_START | motor=pres1 | duration=5.0s | 
+[2026-05-05 13:58:11] PRES_PRIME_STOP | motor=pres1 | duration=5.0s | 
+[2026-05-05 13:58:12] PRES_PRIME_START | motor=pres2 | duration=5.0s | 
+[2026-05-05 13:58:17] PRES_PRIME_STOP | motor=pres2 | duration=5.0s | 
+[2026-05-05 13:58:18] PRES_PRIME_START | motor=pres3 | duration=5.0s | 
+[2026-05-05 13:58:23] PRES_PRIME_STOP | motor=pres3 | duration=5.0s | 
+[2026-05-05 13:58:24] PRIME_END | motor= | duration=0s | 
+[2026-05-05 14:14:04] PRIME_START | motor= | duration=0s | Priming preservative pumps
+[2026-05-05 14:14:04] PRES_PRIME_START | motor=pres1 | duration=5.0s | 
+[2026-05-05 14:14:09] PRES_PRIME_STOP | motor=pres1 | duration=5.0s | 
+[2026-05-05 14:14:10] PRES_PRIME_START | motor=pres2 | duration=5.0s | 
+[2026-05-05 14:14:15] PRES_PRIME_STOP | motor=pres2 | duration=5.0s | 
+[2026-05-05 14:14:16] PRES_PRIME_START | motor=pres3 | duration=5.0s | 
+[2026-05-05 14:14:21] PRES_PRIME_STOP | motor=pres3 | duration=5.0s | 
+[2026-05-05 14:14:22] PRIME_END | motor= | duration=0s | 
+[2026-05-05 14:14:28] START_SEQUENCE | motor= | duration=0s | 
+[2026-05-05 14:14:28] MAIN_START | motor=main1 | duration=60.0s | 
+[2026-05-05 14:15:28] MAIN_STOP | motor=main1 | duration=60.0s | 
+[2026-05-05 14:15:30] STOP_REQUESTED | motor= | duration=0s | 
+[2026-05-05 14:22:59] PRIME_START | motor= | duration=0s | Priming preservative pumps
+[2026-05-05 14:22:59] PRES_PRIME_START | motor=pres1 | duration=5.0s | 
+[2026-05-05 14:23:04] PRES_PRIME_STOP | motor=pres1 | duration=5.0s | 
+[2026-05-05 14:23:05] PRES_PRIME_START | motor=pres2 | duration=5.0s | 
+[2026-05-05 14:23:10] PRES_PRIME_STOP | motor=pres2 | duration=5.0s | 
+[2026-05-05 14:23:11] PRES_PRIME_START | motor=pres3 | duration=5.0s | 
+[2026-05-05 14:23:16] PRES_PRIME_STOP | motor=pres3 | duration=5.0s | 
+[2026-05-05 14:23:17] PRIME_END | motor= | duration=0s | 
+[2026-05-05 14:23:23] PRIME_START | motor= | duration=0s | Priming preservative pumps
+[2026-05-05 14:23:23] PRES_PRIME_START | motor=pres1 | duration=5.0s | 
+[2026-05-05 14:23:28] PRES_PRIME_STOP | motor=pres1 | duration=5.0s | 
+[2026-05-05 14:23:29] PRES_PRIME_START | motor=pres2 | duration=5.0s | 
+[2026-05-05 14:23:35] PRES_PRIME_STOP | motor=pres2 | duration=5.0s | 
+[2026-05-05 14:23:36] PRES_PRIME_START | motor=pres3 | duration=5.0s | 
+[2026-05-05 14:23:41] PRES_PRIME_STOP | motor=pres3 | duration=5.0s | 
+[2026-05-05 14:23:42] PRIME_END | motor= | duration=0s | 
+[2026-05-05 14:24:46] START_SEQUENCE | motor= | duration=0s | 
+[2026-05-05 14:24:46] MAIN_START | motor=main1 | duration=20.0s | 
+[2026-05-05 14:24:54] STOP_REQUESTED | motor= | duration=0s | 
+[2026-05-05 14:32:34] PRIME_START | motor= | duration=0s | Priming preservative pumps
+[2026-05-05 14:32:34] PRES_PRIME_START | motor=pres1 | duration=5.0s | 
+[2026-05-05 14:32:37] STOP_REQUESTED | motor= | duration=0s | 
+[2026-05-05 14:32:43] START_SEQUENCE | motor= | duration=0s | 
+[2026-05-05 14:32:43] MAIN_START | motor=main1 | duration=20.0s | 
+[2026-05-05 14:32:48] STOP_REQUESTED | motor= | duration=0s | 
